@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangQuangDungLesson6DataValidationAnnotation", "DangQuangDungLesson6DataValidationAnnotation\DangQuangDungLesson6DataValidationAnnotation.csproj", "{2179E486-38F8-4E32-8CD5-CD5AF86B813D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DQDLab05.1", "DQDLab05.1\DQDLab05.1.csproj", "{C72D2187-A496-46C6-8AAB-21D33B2B8409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2179E486-38F8-4E32-8CD5-CD5AF86B813D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2179E486-38F8-4E32-8CD5-CD5AF86B813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2179E486-38F8-4E32-8CD5-CD5AF86B813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2179E486-38F8-4E32-8CD5-CD5AF86B813D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72D2187-A496-46C6-8AAB-21D33B2B8409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72D2187-A496-46C6-8AAB-21D33B2B8409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72D2187-A496-46C6-8AAB-21D33B2B8409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72D2187-A496-46C6-8AAB-21D33B2B8409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E695391-548B-4E1C-B579-6F002643635D}
+	EndGlobalSection
+EndGlobal
